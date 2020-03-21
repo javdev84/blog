@@ -13,7 +13,7 @@ timezone: 'Europe/Madrid'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://localhost:4000 
+url: https://blog.javdev84.now.sh
 root: /
 permalink: :lang/:title/
 permalink_defaults:
